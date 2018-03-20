@@ -1,0 +1,2 @@
+abrir navegador&Como quiser senhor Eliomar!&C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Editar Video&Abrindo DaVinci Resolve&C:\Program Files\Blackmagic Design\DaVinci Resolve\Resolve.exe

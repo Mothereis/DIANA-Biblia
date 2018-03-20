@@ -1,0 +1,22 @@
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\bin\Debug\DIANA Biblia.exe.config
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\bin\Debug\DIANA Biblia.exe.manifest
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\bin\Debug\DIANA Biblia.application
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\bin\Debug\DIANA Biblia.exe
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\bin\Debug\DIANA Biblia.pdb
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\bin\Debug\Microsoft.Speech.dll
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.csprojResolveAssemblyReference.cache
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\Interop.WMPLib.dll
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.csproj.ResolveComReference.cache
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA_Biblia.Agenda.resources
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA_Biblia.ComandSocial.resources
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA_Biblia.TelaPrincipal.resources
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA_Biblia.Alarme.resources
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA_Biblia.INFO.resources
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA_Biblia.Properties.Resources.resources
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA_Biblia.SelecVoz.resources
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.csproj.GenerateResource.Cache
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.csproj.CoreCompileInputs.cache
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.exe.manifest
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.application
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.exe
+C:\Users\mothe\source\repos\DIANA Biblia\DIANA Biblia\obj\Debug\DIANA Biblia.pdb
